@@ -1,20 +1,3 @@
-# ewelink-api
-> eWeLink API for JavaScript
+# ewelink-api-fork
 
-
-## Key features
-* can run on browsers, node scripts or serverless environment
-* set on/off devices
-* get power consumption on devices like Sonoff POW
-* listen for devices events
-* using zeroconf (LAN mode), no internet connection required
-
-
-## Installation
-```sh
- npm install ewelink-api
-```
-
-
-## Usage
-Check library documentation and examples at https://github.com/skydiver/ewelink-api/docs
+Please use https://www.npmjs.com/package/ewelink-api instead.
